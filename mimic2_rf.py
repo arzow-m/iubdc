@@ -3,7 +3,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 from sklearn.model_selection import train_test_split
 
-df_grouped = pd.read_csv('synthetic_elderly_patients.csv')
+df_grouped = pd.read_csv('patient_data.csv')
 # create target object, call it y
 y = df_grouped['had_adr']
 
