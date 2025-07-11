@@ -3,3 +3,9 @@ This project leverages machine learning to predict adverse drug reactions (ADRs)
 
 # Disclaimers
 Please note that due to HIPAA privacy rules and the sensitive nature of health information, actual patient data is not included in this repository. All datasets used for development and demonstration purposes are not shared in this public repository. 
+
+# 3-Minute Thesis Presentation
+Grading Criteria: Judges will evaluate your presentation based on how effectively you can deliver a clear, passionate, and impactful three-minute talk that explains complex research 
+in a way that a non-specialist audience can easily understand.
+
+We were awarded 3rd place among 40 teams! This program was open to anyone including upper years and graduate students, so this was an incredibly important milestone for me :)
